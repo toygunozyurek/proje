@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "title": "Honda",
+        "image": "https://www.carlogos.org/car-logos/honda-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "69000",
+            "price": "484750",
+            "year": "2013",
+            "model": "Civic",
+            "color": "Yellow"
+        }
+    },
+    {   "id": "2",
+        "title": "Tesla",
+        "image": "https://www.carlogos.org/car-logos/tesla-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "130000",
+            "price": "1875000",
+            "year": "2016",
+            "model": "Model S",
+            "color": "Blue"
+        }
+    },
+    {   "id": "3",
+        "title": "Porsche",
+        "image": "https://www.carlogos.org/car-logos/porsche-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "130000",
+            "price": "990000",
+            "year": "2007",
+            "model": "Cayenne",
+            "color": "Black"
+        }
+    },
+    {   "id": "4",
+        "title": "Bentley",
+        "image": "https://www.carlogos.org/car-logos/bentley-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "45000",
+            "price": " 5750000",
+            "year": "2013",
+            "model": "Continental",
+            "color": "Green"
+        }
+    },
+    {   "id": "5",
+        "title": "Maserati",
+        "image": "https://www.carlogos.org/car-logos/maserati-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "182000",
+            "price": " 2650000",
+            "year": "2014",
+            "model": "Ghibli",
+            "color": "Orange"
+        }
+    },
+    {   "id": "6",
+        "title": "Jeep",
+        "image": "https://www.carlogos.org/car-logos/jeep-logo.png",
+        "vites_type": [
+            "Manuel",
+            "Automatic"
+        ],
+        "infos": {
+            "km": "160000",
+            "price": "1350000",
+            "year": "2014",
+            "model": "Cherokee",
+            "color": "Pink"
+        }
+    }
+]
